@@ -1,0 +1,1 @@
+A PS4 can be jailbroken when its firmware is under version 11.00. Exploits vary depending on the version, but the most widely used exploit that works on nearly every console is PPPwn. PPPwn is an exploit that takes advantage of PPPoE, which allows Remote Code Execution. For a detailed explanation of the exploit, read this [report](https://hackerone.com/reports/2177925).

@@ -1,0 +1,7 @@
+- WinSCP or FileZilla – for accessing your PS4’s file system.
+- IDA Pro – essential for reverse engineering.
+- PS4 Module Loader – a plugin for IDA Pro to work with PS4 modules.
+- u4pak (Python version) – used for unpacking .pak files. Avoid the Rust version its scuffed
+- FModel – to explore and extract assets from Unreal Engine .pak files on the console.
+- A lot of patience – seriously, this isn’t a quick job.
+- And maybe a few strong cups of coffee 

@@ -1,0 +1,1 @@
+The Fortnite license is obtained either by downloading the game through a PSN account with the PS4 set as Primary before your jailbreak, or by owning an old [Fortnite Save the World CD](obsidian://open?vault=Ps4%20Modding%20Guide&file=Media%2FFortniteCD.jpg). In either case, it means you have a Fortnite license.
