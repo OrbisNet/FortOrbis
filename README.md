@@ -1,4 +1,5 @@
 Play old Fortnite versions on a Ps4
+I would recommend you to use this website to view this
 This Requires a [[Jailbroken PS4]] and a [[Fortnite License]]
 Join our [Discord Server](https://discord.gg/y5gRdBP3bH) for the latest updates!
 also contributing would be very epic!!

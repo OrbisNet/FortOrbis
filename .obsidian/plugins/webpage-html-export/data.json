@@ -25,10 +25,10 @@
   "addSearchBar": true,
   "addGraphView": true,
   "addTitle": true,
-  "addRSSFeed": true,
-  "siteURL": "",
+  "addRSSFeed": false,
+  "siteURL": "https://fortorbis.github.io/",
   "authorName": "",
-  "vaultTitle": "Ps4 Modding Guide",
+  "vaultTitle": "FortOrbis",
   "exportPreset": "website",
   "openAfterExport": false,
   "graphAttractionForce": 1,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "",
+  "exportPath": "D:\\\\obisidan\\vault\\FortOrbis\\html",
   "filesToExport": [
     []
   ]
