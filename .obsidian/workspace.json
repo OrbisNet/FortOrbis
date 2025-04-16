@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Patches/14.40.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "14.40"
             }
           },
           {
@@ -239,8 +239,13 @@
   },
   "active": "f18445c347db9be5",
   "lastOpenFiles": [
+    "Untitled.md",
+    "DailyLogs/15.04.2025.md",
     "Credits.md",
     "README.md",
+    "DailyLogs/14.04.2025.md",
+    "Media/Pasted image 20250415230847.png",
+    "Media/avrage.tevtonscream.mp4",
     "FortOrbis",
     "html/LICENSE/New Text Document.txt",
     "html/LICENSE/LICENSE",
@@ -250,7 +255,6 @@
     "html/lib/styles/obsidian.css",
     "html/lib/styles/main-styles.css",
     "html/lib/styles/global-variable-styles.css",
-    "html/lib/styles",
     "html/lib/media/favicon.png",
     "html/lib/media/6155340132a851f6089e.svg",
     "html/media/pasted-image-20250415230931.png",
@@ -262,11 +266,8 @@
     "Info/SSL Pinning Bypass.md",
     "Info/PlayStation Terms.md",
     "Info/Jailbroken PS4.md",
-    "DailyLogs/15.04.2025.md",
-    "DailyLogs/14.04.2025.md",
     "html/Media/Pasted image 20250415230931.png",
     "html/Media/Pasted image 20250415230847.png",
-    "html/Media/FortniteCD.jpg",
     "DailyLogs/13.04.2025.md",
     "Patches/14.40.md",
     "FortOrbis.md",
