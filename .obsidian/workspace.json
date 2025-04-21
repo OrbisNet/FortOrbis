@@ -25,14 +25,15 @@
             "id": "f18445c347db9be5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "CopyPaste.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Patches/14.40.md",
+                "bFile": "Patches/14.40.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "CopyPaste"
+              "icon": "diff",
+              "title": "Diff: 14.40"
             }
           },
           {
@@ -237,19 +238,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f82673bec99fb8f1",
+  "active": "f18445c347db9be5",
   "lastOpenFiles": [
-    "New Text Document.txt",
-    "Untitled.md",
-    "CopyPaste.md",
-    "README.md",
-    "Credits.md",
-    "DailyLogs/13.04.2025.md",
+    "DailyLogs/22.04.2025.md",
+    "DailyLogs/21.04.2025.md",
+    "DailyLogs/20.04.2025.md",
+    "DailyLogs/19.04.2025.md",
+    "DailyLogs/18.04.2025.md",
+    "DailyLogs/17.04.2025.md",
+    "DailyLogs/16.04.2025.md",
+    "DailyLogs/14.04.2025.md",
     "DailyLogs/15.04.2025.md",
     "Patches/14.40.md",
+    "DailyLogs/13.04.2025.md",
+    "Credits.md",
+    "CopyPaste.md",
+    "New Text Document.txt",
+    "Untitled.md",
+    "README.md",
     "Info/SSL Pinning Bypass.md",
     "Info/Fortnite License.md",
-    "DailyLogs/14.04.2025.md",
     "Media/Pasted image 20250415230847.png",
     "Media/avrage.tevtonscream.mp4",
     "FortOrbis",
@@ -260,7 +268,6 @@
     "html/lib/styles/supported-plugins.css",
     "html/lib/styles/obsidian.css",
     "html/lib/styles/main-styles.css",
-    "html/lib/styles/global-variable-styles.css",
     "html/lib/media/favicon.png",
     "html/lib/media/6155340132a851f6089e.svg",
     "html/media/pasted-image-20250415230931.png",
