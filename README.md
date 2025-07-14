@@ -11,7 +11,7 @@ Because I don't want anyone else to spend time and money finding this. Since byp
 (`?`) Matchmaking Untested
 (`#`) Work In Progress
 
-| Chapters  | Supported Versions |
-| --------- | :----------------- |
-| Chapter 1 | 6.21?              |
-| Chapter 2 | 14.40?*#           |
+| Chapter   | Supported Versions        |
+|-----------|-------------------------- |
+| Chapter 1 | 6.21?, 4.5, 4.2, 3.5 1.8? |
+| Chapter 2 | 14.40*                    |
